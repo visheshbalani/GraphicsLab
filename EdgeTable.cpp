@@ -75,4 +75,5 @@ int main()
 	{
 		cout<<e[i].xmax<<" "<<e[i].y_xmin<<" "<<e[i].dy<<" "<<e[i].dx<<" "<<e[i].m<<endl;
 	}
+return 0;
 }
