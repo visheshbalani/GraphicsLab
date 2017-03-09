@@ -75,11 +75,4 @@ int main()
 	{
 		cout<<e[i].xmax<<" "<<e[i].y_xmin<<" "<<e[i].dy<<" "<<e[i].dx<<" "<<e[i].m<<endl;
 	}
-
-	//sort(poly[].x, poly[].x +n);
-	for (int j = 0; j < Number_of_Vertices; j++)
-	{
-		cout<<poly[j].x<<poly[j].y;
-	}
-	return 0;
 }
